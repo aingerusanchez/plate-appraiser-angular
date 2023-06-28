@@ -1,8 +1,28 @@
 {
   "recommendations": [
+    // Angular
+    "angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "infinity1207.angular2-switcher",
+    // NX
     "nrwl.angular-console",
-    "esbenp.prettier-vscode",
+    // Lang Snippets
+    "xabikos.JavaScriptSnippets",
+    // Lang. syntax
+    
+    // Testing
+    "Orta.vscode-jest",
     "firsttris.vscode-jest-runner",
-    "dbaeumer.vscode-eslint"
-  ]
+    "ms-playwright.playwright",
+    // Config - Linting - Formating
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    // GIT
+    "eamodio.gitlens",
+    // Miscelaneus
+    "streetsidesoftware.code-spell-checker",
+    // Theming
+    "PKief.material-icon-theme",
+  ],
 }
